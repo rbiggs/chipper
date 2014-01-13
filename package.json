@@ -1,0 +1,27 @@
+{
+  "name": "chipper",
+  "title": "Chipper Grids",
+  "description": "A CSS grid system using the flex box model.",
+  "version": "1.0.0",
+  "homepage": "http://chocolatechip-ui.com",
+  "author": {
+    "name": "Robert Biggs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourcebitsllc/chocolatechip-ui.git"
+  },
+  "licences": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sourcebitsllc/chocolatechip-ui/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
